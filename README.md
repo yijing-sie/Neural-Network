@@ -9,7 +9,7 @@ The first part of this assignment is to implement from scratch a **Multi-Layer P
 
 > For this, I implemented activations, loss fucntions, batch normalization, forward and backward methods with momentum for linear layers, and all of the aforementioned derivatives
 
-*  MyTorch is my own custom deep learning library, which acts similar to other deep learning libraries like PyTorch or Tensorflow, contains all files needed for MLP.py
+*  [MyTorch](https://github.com/yijing-sie/Neural-Network/tree/main/mytorch) is my own custom deep learning library, which acts similar to other deep learning libraries like PyTorch or Tensorflow, contains all files needed for MLP.py
 *  MLP.py contains my implementation of Multi-Layer Perceptron
 
 ## Neural Netwrok
