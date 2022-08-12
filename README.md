@@ -17,7 +17,7 @@ The first part of this assignment is to implement from scratch a **Multi-Layer P
 For the second part, the goal is to employ feedward neural network to predict phoneme state label for Mel spectrogram frames for speech recognition.
 
 * It is also a kaggle competition, and all the details can be found [here](https://www.kaggle.com/competitions/idl-fall2021-hw1p2/overview)
-* All the work for this part can be found in NN_speach_recognition.ipynb
+* All the work for this part can be found in [NN_speach_recognition.ipynb](NN_speach_recognition.ipynb)
 
 
 
