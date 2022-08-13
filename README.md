@@ -5,7 +5,7 @@ Intro to Deep Learning assignment:
 
 ## Multi-Layer Perceptron
 
-The first part of this assignment is to implement from scratch a **Multi-Layer Perceptron** that supports an arbitrary number of hidden layers, each with an arbitrary number of units **without using Pytorch**
+The first part of this assignment is to implement from scratch a numpy-based **Multi-Layer Perceptron** that supports an arbitrary number of hidden layers, each with an arbitrary number of units **without using Pytorch**
 
 > For this, I implemented activations, loss fucntions, batch normalization, forward and backward methods with momentum for linear layers, and all of the aforementioned derivatives
 
