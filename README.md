@@ -18,6 +18,8 @@ For the second part, the goal is to employ feedward neural network to predict ph
 
 * It is also a kaggle competition, and all the details can be found [here](https://www.kaggle.com/competitions/idl-fall2021-hw1p2/overview)
 * All the work for this part can be found in [NN_speach_recognition.ipynb](NN_speach_recognition.ipynb)
+* My model achieves 0.80759 for unweighted frame-level accuracy on phoneme state labels in the `test` set
+
 
 
 
