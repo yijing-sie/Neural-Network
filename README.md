@@ -22,10 +22,11 @@ For the second part, the goal is to employ feedward neural network to predict ph
 
 **Note**: The length of a training label array per frame will be as long as however many phonemes are in the utterance.
 * It is also a kaggle competition, and all the details can be found [here](https://www.kaggle.com/competitions/11785-homework-3-part-2-slack-seq-to-seq)
-* All the work for this part can be found in [lstm_and_ctc.ipynb](lstm_and_ctc.ipynb)
-* I provided my model with “context” of size 25 around each mel spectrogram frame for better performance
 * My model achieves **0.80759** for unweighted frame-level accuracy on phoneme state labels in the `test` set
 * It's ranked number **5** in a class of 300+ students
+* All the work for this part can be found in [lstm_and_ctc.ipynb](lstm_and_ctc.ipynb)
+* I provided my model with “context” of size 25 around each mel spectrogram frame for better performance
+
 
 
 
