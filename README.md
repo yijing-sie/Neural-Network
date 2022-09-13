@@ -7,7 +7,7 @@ Intro to Deep Learning assignment:
 
 The first part of this assignment is to implement from scratch a numpy-based **Multi-Layer Perceptron** that supports an arbitrary number of hidden layers, each with an arbitrary number of units **without using Pytorch**
 
-* For this, I implemented activations, loss fucntions, batch normalization, forward and backward methods with momentum for linear layers, and all of the aforementioned derivatives
+* For this, I implemented activations, loss functions, batch normalization, forward and backward methods with momentum for linear layers, and all of the aforementioned derivatives
 
 >  [mytorch](https://github.com/yijing-sie/Neural-Network/tree/main/mytorch) is my own custom deep learning library, which acts similar to other deep learning libraries like PyTorch or Tensorflow, contains all files needed for MLP.py
 *  [MLP.py](MLP.py) contains my implementation of Multi-Layer Perceptron
