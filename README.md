@@ -12,7 +12,7 @@ The first part of this assignment is to implement from scratch a **Multi-Layer P
 >  [mytorch](https://github.com/yijing-sie/Neural-Network/tree/main/mytorch) is my custom deep learning library, built entirely in NumPy, that functions similarly to established DL lebraries like PyTorch or TensorFlow
 *  [MLP.py](MLP.py) contains my implementation of Multi-Layer Perceptron
 
-## Neural Netwrok
+## Neural Network for Speech Recognition Problem
 
 For the second part, the goal is to employ feedward neural network to predict phoneme state labels for Mel spectrogram frames in the test set, a task known as speech recognition.
 
