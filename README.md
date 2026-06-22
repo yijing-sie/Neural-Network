@@ -14,7 +14,7 @@ The first part of this assignment is to implement from scratch a **Multi-Layer P
 
 ## Neural Network for Speech Recognition Problem
 
-For the second part, the goal is to employ feedward neural network to predict phoneme state labels for Mel spectrogram frames in the test set, a task known as speech recognition.
+For the second part, the goal is to employ custom-built neural network to predict phoneme state labels for Mel spectrogram frames in the test set, a task known as speech recognition.
 
 * The data comes from articles published in the Wall Street Journal (WSJ) that are read aloud and labelled using the original text
 * **Training features**: Raw mel spectrogram frames
